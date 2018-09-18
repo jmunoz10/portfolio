@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+	color: green;
+}
+.container {
+    width: 90%;
+    margin: auto;
+}
+.container h1 {
+color: pink;
+
+}
